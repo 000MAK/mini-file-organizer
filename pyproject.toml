@@ -1,0 +1,9 @@
+[project]
+name = "mini-file-organizer"
+version = "0.1.0"
+description = "Creates a proposed file-move plan by extension. It is dry-run by default; use --apply to move files."
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.ruff]
+line-length = 100
